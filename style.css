@@ -1,0 +1,44 @@
+body{
+    background-color: gold;
+
+}
+.main{
+ background-color: hotpink;
+}
+h1{
+    background-color: aqua;
+    display: flex;
+    flex-grow: 10;
+
+}
+
+.subclass1{
+   
+    margin-left: 200px;
+    padding-left: 50px;
+  width: 300px;
+}
+.subclass2{
+    margin-left: 500px;
+    padding-left: 50px;
+  width: 300px;
+   
+}
+.subclass3{
+    margin-left: 200px;
+    padding-left: 50px;
+  width: 300px;
+   
+}
+.subclass4{
+    margin-left: 500px;
+    padding-left: 50px;
+  width: 300px;
+   
+}
+.subclass5{
+    margin-left: 200px;
+    padding-left: 50px;
+  width: 300px;
+   
+}
